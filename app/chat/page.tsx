@@ -1,7 +1,7 @@
 "use client"
 import ChatWindows from "@/components/shared/chatWindow"
 
-interface Props {
+type Props = {
 	className?: string
 }
 
